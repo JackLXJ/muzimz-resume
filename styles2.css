@@ -5,6 +5,7 @@
 
 .md {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
+  max-height: 93.1vh;
 }
 
 .md h1, .md h2, .md h3, .md h4, .md h5, .md h6 {

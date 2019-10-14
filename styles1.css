@@ -1,11 +1,13 @@
 
 #work-text.flipped {
   -webkit-transform: rotateX(0deg) rotateY(190deg) rotateZ(180deg);
+  max-height: 93.1vh;
 }
 
 #work-text .md {
   -webkit-transform: rotateY(190deg) rotateZ(180deg);
   margin-top: 800px;
+  max-height: 93.1vh;
 }
 
 /**
