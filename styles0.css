@@ -1,15 +1,14 @@
 /**
- *
- * Hey. My name's Samuel Reed. I'm CTO of BitMEX.com and frequent
- * open source contributor.
- *
- * I build interactive websites.
- *
- * How about some live coding?
+ * Inspired by strml: https://github.com/strml
+ * 
+ * Hello, My name is Litao
+ * 借助Github服务器搭建了一份基于web端的动态简历，希望大家能够喜欢
+ * 原Github地址： https://github.com/strml （项目支持）
+ * 
  */
 
 /**
- * Let's begin. We start by animating... well, everything.
+ * 那就现在开始吧，先给所有元素加上过渡效果
  */
 
 * {
@@ -17,10 +16,9 @@
 }
 
 /**
- * That didn't do much. But you'll see.
  *
- * Black on white is really boring,
- * so let's do something about it.
+ * 空白的背景似乎有点单调
+ * 我们给它来点背景吧
  */
 
 html {
@@ -36,11 +34,10 @@ pre, a {
 }
 
 /**
- * That's better. Sorry about your eyes.
+ * 直接显示在页面上，没有什么装饰......
  *
- * Working in this big empty space is tough.
+ * 有点反人类，所以给文字加点装饰吧  (๑•̀ㅂ•́)و✧
  *
- * I'm going to make a nice area for us to work in.
  */
 
 pre:not(:empty) {
@@ -59,8 +56,7 @@ pre:not(:empty) {
 }
 
 /**
- * Okay. We're going to start filling up the screen.
- * Let's get ready to do some work.
+ * 接着，再来点填充
  */
 
 #style-text {
@@ -69,8 +65,8 @@ pre:not(:empty) {
 }
 
 /**
- * This is good, but all the text is white!
- * Let's make it even more readable.
+ * 怎么文字全是白色的，实在是太过于难看了，我太南了 (ノへ￣、)
+ * 现在就来提高点读者的阅读体验吧
  */
 
 .comment       { color: #857F6B; font-style: italic; }
@@ -81,8 +77,8 @@ pre:not(:empty) {
 .value.px      { color: #F92772; }
 
 /**
- * Now we're getting somewhere.
- * Time to get a little perspective.
+ * 可以看见，已经初步成型了  ︿(￣︶￣)︿
+ * 我们把它换到右边吧
  */
 
 body {
@@ -96,8 +92,12 @@ body {
 }
 
 /**
- * So, let's talk projects. That's why you're here, right?
- * I can't imagine you'd come just to see the pretty colors.
+ * 前期工作基本已经完成了
+ * 
+ * 现在，我们来开始写Resume吧
+ * 
+ * 顺便一说，这个简历的展示是基于Markdown来编辑的 
+ *
  */
 
 pre:not(#style-text) {

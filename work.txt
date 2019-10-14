@@ -1,44 +1,64 @@
-STRML.net
-=========
+https://www.muzimz.cn
+=====
 
-Samuel Reed
-CTO, BitMEX (The Bitcoin Mercantile Exchange)
-Full-Stack / NodeJS / DevOps
+Name：Litao    
+Position：undergraduate     
+Age：post-90s
+
 
 Contact
 -------
 
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
-* STRML on irc.freenode.net
-* @STRML_ on Twitter
+* QQ：26647879
+* Email：26647879@qq.com
+* 微信：LT510087153
+* Github：https://github.com/JackLXJ/
+* Website：https://www.muzimz.cn
+* Address：Pudong New District of Shanghai
 
 Projects
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
-* www.Tixelated.com
-* www.BrightestYoungThings.com
-and of course...
-* www.strml.net
+* Taotao shopping mall
+* 微信小程序：Detective —— 案发现场
+* https://www.muzimz.cn
 
-Open Source
------------
+Skills
+-----
+* 爬虫、数据分析、Tensorflow
+* Python、Java、Matlab、Shell
+* ssm、ssh等主流后端框架
+* Mysql数据库
+* 微信小程序
+* Linux（Kali）网络安全，web渗透、测试
 
-* Babel
-* React-Grid-Layout
-* React-LocalStorage
-* React-Router-Component
-* React-Resizable
-* React-Draggable
-* OpenBazaar
-* JSXHint
-* BTChip-Signing-Tools
-* TextFit
-* Imgur-to-GFYcat
-* backbone.queryRouter
-* backbone.layoutManager
-* Mongoose-Filter-Denormalize
+Intr
+------
+
+现于上海就读，现实生活中比较内向、形单影只，但热衷于各种技术，学的东西也比较杂，目前正朝着极客的方向努力。至于未来发展的如何，一切都只是未知数，总而言之，言而总之，希望自己能够在这条道路上坚持下去。平时有事没有喜欢下棋，象棋、围棋、军旗、将棋都会点，喜欢的学科是数学和运筹学。
+个人爱好： 动漫、code、音乐、乒乓球、棋牌
+
+$$
+\ooint_E\frac{xdydz+ydzdx+zdxdy}{(x^2+y^2+z^2)^{\frac{3}{2}}}=\ooint_{E+E_1}\frac{xdydz+ydzdx+zdxdy}{(x^2+y^2+z^2)^{\frac{3}{2}}}-\ooint_{E_1}\frac{xdydz+ydzdx+zdxdy}{(x^2+y^2+z^2)^{\frac{3}{2}}} 
+$$
+
+$$
+\begin{align}
+        I_1
+& = \ooint_{E_1}\frac{xdydz+ydzdx+zdxdy}{(x^2+y^2+z^2)^{\frac{3}{2}}} \\
+& = \frac{1}{\varepsilon^3}\ooint_{E_1}xdxdz+ydzdx+zdxdy  \\
+&=-\frac{1}{\varepsilon^3}\iiint_{\Omega_1}3dxdydz  \\
+&=-\frac{3}{\varepsilon^3}\frac{4\pi\varepsilon^3}{3}=-4\pi
+    \end{align}
+$$
+
+$$
+    \begin{align}
+        I_2
+& = \ooint_{E+E_1}\frac{xdydz+ydzdx+zdxdy}{(x^2+y^2+z^2)^{\frac{3}{2}}} \\
+& = \iiint_{\Omega}[\frac{\partial}{\partial x}(\frac{x}{(x^2+y^2+z^2)^\frac{3}{2}})+\frac{\partial}{\partial x}(\frac{y}{(x^2+y^2+z^2)^\frac{3}{2}})+\frac{\partial}{\partial x}(\frac{z}{(x^2+y^2+z^2)^\frac{3}{2}})]dxdydz  \\
+&=\iiint_\Omega 0 dxdydz=0
+    \end{align}
+$$
 
 

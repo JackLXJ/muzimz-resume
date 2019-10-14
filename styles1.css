@@ -1,8 +1,4 @@
 
-/**
- * That markdown on the left doesn't look great. Let's render it.
- */
-
 #work-text.flipped {
   -webkit-transform: rotateX(0deg) rotateY(190deg) rotateZ(180deg);
 }
@@ -13,7 +9,7 @@
 }
 
 /**
- * Alright. We're ready.
+ * 好的 我们来看看效果吧
  *
  * 3...
  * 2...
@@ -22,6 +18,5 @@
  * .
  * ....faked you out.
  *
- * Okay here we go!
  *
  */
